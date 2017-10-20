@@ -1,4 +1,12 @@
 .successMainDiv {
+  display: flex;
+  justify-content: center;
+}
+h2 {
+   background-color: yellowgreen;
+  border: 1px solid blueviolet;
+  width: 80%;
+  height: 80px;
   text-align: center;
-  color: yellowgreen;
+  line-height: 80px;
 }
